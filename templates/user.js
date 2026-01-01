@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         New Userscript
-// @namespace    https://github.com/4bigchoi23
+// @namespace    https://github.com/cubicsteak
 // @version      1.0.0
 // @description  try to take over the world!
 // @author       Big+ (4bigchoi23@gmail.com)
